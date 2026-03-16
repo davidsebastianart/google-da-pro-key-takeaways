@@ -52,11 +52,11 @@
 
 - **Analytical thinking**: identifying and defining a problem and then solving it by using data in an organize, step-by-step manner.
 
-- The five key aspects to analytical thinking:
-	1. Visualization: Graphical representation of data (e.g., graphs, maps) aids in understanding and explaining information effectively.
-	2. Strategy: A strategic mindset helps data analysts focus on goals and improve the quality of data collected.
-	3. Problem orientation: Keeping the problem in focus throughout a project is crucial for effective solutions.
-	4. Correlation: Identifying relationships between data points is important, but analysts must remember that correlation does not imply causation. 
-	5. Big picture (Seeing the overall context allows for innovative ideas and opportunities.) and detail-oriented thinking (Focusing on the specifics helps in executing plans effectively, balancing both perspectives is essential for success in data analysis.).
+- **The five key aspects to analytical thinking**:
+	1. **Visualization**: Graphical representation of data (e.g., graphs, maps) aids in understanding and explaining information effectively.
+	2. **Strategy**: A strategic mindset helps data analysts focus on goals and improve the quality of data collected.
+	3. **Problem orientation**: Keeping the problem in focus throughout a project is crucial for effective solutions.
+	4. **Correlation**: Identifying relationships between data points is important, but analysts must remember that correlation does not imply causation. 
+	5. **Big picture** (Seeing the overall context allows for innovative ideas and opportunities.) and **detail-oriented thinking** (Focusing on the specifics helps in executing plans effectively, balancing both perspectives is essential for success in data analysis.).
 
 - The five whys is a powerful tool for root cause analysis. It’s simple, effective, and a great way to collaborate with colleagues and learn about other areas of the business. Plus, the five whys can be used to analyze problems in any industry, helping organizations of all kinds identify and fix business problems. As a data professional, you can turn to the five whys whenever you feel stumped by a problem and need to approach it from a different perspective. [[Five whys for root cause analysis]]
