@@ -1,8 +1,6 @@
 # Google Data Analytics Professional Certificate - Key Takeaways
 
-This private repository contains my personal **key takeaways** and module summaries from the **Google Data Analytics Professional Certificate** on Coursera.
-
-Currently, it includes notes from the first few courses, structured by module (e.g., Course 1: Foundations has Module-1.md to Module-4.md).
+This private repository contains my personal **key takeaways** and module summaries from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.
 
 **Disclaimer**  
 All content in this repository represents my own personal notes, paraphrased summaries, and insights derived from the course materials. No original course content (slides, videos, readings, or verbatim text) has been copied in full. This repo is for personal learning, review, and portfolio purposes only. All original materials are copyrighted by Google and Coursera.
