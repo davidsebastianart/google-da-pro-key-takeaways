@@ -47,5 +47,3 @@
 - **Empowering Individuals with Data Control**
 	- There is a need for mechanisms that allow individuals to control their data, including consent and the ability to revoke access.
 	- As data continues to grow, empowering individuals to manage their data becomes increasingly important.
-
-![[Pasted image 20260223185551.png]]
