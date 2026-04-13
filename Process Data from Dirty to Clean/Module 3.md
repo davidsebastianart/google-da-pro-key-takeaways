@@ -75,5 +75,3 @@
 - **Handling Missing Values with COALESCE**
 	- COALESCE returns the first non-null value from a list of columns.
 	- Example: Displaying product name if available, otherwise showing product code to handle missing product names.
-
-- 
