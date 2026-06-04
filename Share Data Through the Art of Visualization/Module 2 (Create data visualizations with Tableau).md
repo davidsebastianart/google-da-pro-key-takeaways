@@ -103,7 +103,7 @@
 ![](../img/Pasted-image-20260518094457.png)
 
 - A **pie chart** is ideal for measuring data as a proportion of the whole.
-![](img/Pasted-image-20260518094120.png)
+![](../img/Pasted-image-20260518094120.png)
 
 - A **scatter plot** is ideal for exploring potential relationships between two variables.
 ![](../img/Pasted-image-20260518094233.png)
