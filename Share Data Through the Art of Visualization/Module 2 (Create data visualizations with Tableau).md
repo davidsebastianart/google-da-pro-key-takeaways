@@ -97,7 +97,7 @@
 		- The course also hints at learning to combine multiple data sources in Tableau for more complex analysis.
 
 - A **line chart** is ideal for highlighting trends over time.
-  ![](../img/Pasted image 20260518094422.png)
+  !(../img/Pasted image 20260518094422.png)
 
 - A **histogram** is ideal for comparing the distribution of two variables by individual grouping.
   ![](../img/Pasted image 20260518094457.png)
