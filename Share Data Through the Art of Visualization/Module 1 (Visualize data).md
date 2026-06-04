@@ -1,6 +1,6 @@
 ## Key Takeaways (Understanding data visualization)
 
-![[Pasted image 20260509113056.png]]
+![(/img/succesfull-visualization.png)]
 
 - **The Role and History of Data Visualization**
 	- Data visualization is the graphic representation of data to make information easier to understand.
