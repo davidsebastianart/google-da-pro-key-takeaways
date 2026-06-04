@@ -134,7 +134,8 @@
 - **Ways to make data visualizations accessible:**
 	- **Labeling**
 	
-	- **Text alternatives![[Pasted image 20260512235939.png]]**
+	- **Text alternatives**
+	![](../img/image.png)
 	
 	- **Text-based format**
 	
